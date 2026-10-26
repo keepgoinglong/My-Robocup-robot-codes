@@ -1,0 +1,12 @@
+CAMERA WARMUP retry frame 1 sensor(0) snapshot chn(0) failed(3)
+Camera media cleanup: VB cleanup failed
+CAMERA recovery: persistent capture failure; resetting board
+CAMERA WARMUP retry frame 1 sensor(0) snapshot chn(0) failed(3)
+CAMERA recovery: persistent capture failure; resetting board
+CAMERA WARMUP retry frame 1 sensor(0) snapshot chn(0) failed(3)
+CAMERA WARMUP OK 3
+.......................................................
+----------------------------------------------------------------------
+Ran 55 tests in 0.412s
+
+OK

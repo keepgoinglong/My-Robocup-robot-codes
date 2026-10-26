@@ -1,0 +1,50 @@
+[
+  {
+    "video": "一直偏左不往右调.mp4",
+    "counts": {
+      "lost": 4,
+      "straight": 81,
+      "left": 18,
+      "right": 62
+    },
+    "first_left": 7.664,
+    "first_right": 0.383,
+    "left_angle_range": [
+      -8.7,
+      -5.0
+    ],
+    "left_angle_median": -5.0
+  },
+  {
+    "video": "窄道偏右却识别成向右修正.mp4",
+    "counts": {
+      "lost": 0,
+      "straight": 98,
+      "left": 74,
+      "right": 29
+    },
+    "first_left": 5.067,
+    "first_right": 1.933,
+    "left_angle_range": [
+      -18.1,
+      -3.8
+    ],
+    "left_angle_median": -10.4
+  },
+  {
+    "video": "窄道一直向左修正修正不过来.mp4",
+    "counts": {
+      "lost": 0,
+      "straight": 31,
+      "left": 107,
+      "right": 19
+    },
+    "first_left": 0.6,
+    "first_right": 0.4,
+    "left_angle_range": [
+      -19.4,
+      4.1
+    ],
+    "left_angle_median": -8.7
+  }
+]

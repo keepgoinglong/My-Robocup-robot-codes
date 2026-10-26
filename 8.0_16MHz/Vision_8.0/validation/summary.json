@@ -1,0 +1,116 @@
+[
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\1.mp4",
+    "events": [
+      {
+        "shape": 1,
+        "time": 2.8,
+        "score": 0.9942857142857142
+      }
+    ],
+    "expected": 1,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\2.mp4",
+    "events": [
+      {
+        "shape": 2,
+        "time": 2.7,
+        "score": 0.9924812030075187
+      }
+    ],
+    "expected": 2,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\3.mp4",
+    "events": [
+      {
+        "shape": 3,
+        "time": 1.8,
+        "score": 1.0
+      }
+    ],
+    "expected": 3,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\4.mp4",
+    "events": [
+      {
+        "shape": 4,
+        "time": 1.7,
+        "score": 0.9891304347826088
+      }
+    ],
+    "expected": 4,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\5.mp4",
+    "events": [
+      {
+        "shape": 5,
+        "time": 0.6,
+        "score": 1.0
+      }
+    ],
+    "expected": 5,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形2\\6.mp4",
+    "events": [
+      {
+        "shape": 6,
+        "time": 2.0,
+        "score": 1.0
+      }
+    ],
+    "expected": 6,
+    "passed": true
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\直道识别成左转.mp4",
+    "events": []
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\直走丢线.mp4",
+    "events": []
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\左转丢线.mp4",
+    "events": [
+      {
+        "shape": 6,
+        "time": 16.9,
+        "score": 0.9550173010380623
+      }
+    ]
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形1远处误识别成图形6.mp4",
+    "events": [
+      {
+        "shape": 1,
+        "time": 0.2,
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\五角星没识别出来，偶尔误识别成图形6.mp4",
+    "events": []
+  },
+  {
+    "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\图形5识别不到.mp4",
+    "events": [
+      {
+        "shape": 5,
+        "time": 1.7,
+        "score": 1.0
+      }
+    ]
+  }
+]

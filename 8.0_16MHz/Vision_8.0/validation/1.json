@@ -1,0 +1,457 @@
+{
+  "video": "D:\\Desktop\\2026 cobocup \u4eba\u5f62\u673a\u5668\u4eba\\\u89c6\u9891\\\u56fe\u5f622\\1.mp4",
+  "frames": 172,
+  "events": [
+    {
+      "shape": 1,
+      "time": 2.8,
+      "score": 0.9942857142857142
+    }
+  ],
+  "samples": [
+    {
+      "time": 0.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.7,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.8,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 0.9,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.7,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.8,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 1.9,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 2.7,
+      "detection": {
+        "shape": 1,
+        "score": 0.9942857142857142,
+        "margin": 0.13072079759285027,
+        "box": [
+          256,
+          126,
+          153,
+          159
+        ],
+        "corners": [
+          [
+            258,
+            150
+          ],
+          [
+            384,
+            126
+          ],
+          [
+            408,
+            258
+          ],
+          [
+            272,
+            282
+          ]
+        ],
+        "accepted": true,
+        "scores": {
+          "1": 0.9942857142857142,
+          "2": 0.319094184251158,
+          "3": 0.863564916692864,
+          "4": 0.5662887047535979,
+          "5": 0.1574564723694171,
+          "6": 0.3719557195571956
+        },
+        "contrast": 49
+      },
+      "best": {
+        "shape": 1,
+        "score": 0.9942857142857142,
+        "margin": 0.13072079759285027,
+        "box": [
+          256,
+          126,
+          153,
+          159
+        ],
+        "corners": [
+          [
+            258,
+            150
+          ],
+          [
+            384,
+            126
+          ],
+          [
+            408,
+            258
+          ],
+          [
+            272,
+            282
+          ]
+        ],
+        "accepted": true,
+        "scores": {
+          "1": 0.9942857142857142,
+          "2": 0.319094184251158,
+          "3": 0.863564916692864,
+          "4": 0.5662887047535979,
+          "5": 0.1574564723694171,
+          "6": 0.3719557195571956
+        },
+        "contrast": 49
+      }
+    },
+    {
+      "time": 2.8,
+      "detection": {
+        "shape": 1,
+        "score": 0.9942857142857142,
+        "margin": 0.13072079759285027,
+        "box": [
+          256,
+          126,
+          153,
+          159
+        ],
+        "corners": [
+          [
+            258,
+            150
+          ],
+          [
+            384,
+            126
+          ],
+          [
+            408,
+            258
+          ],
+          [
+            272,
+            282
+          ]
+        ],
+        "accepted": true,
+        "scores": {
+          "1": 0.9942857142857142,
+          "2": 0.319094184251158,
+          "3": 0.863564916692864,
+          "4": 0.5662887047535979,
+          "5": 0.1574564723694171,
+          "6": 0.3719557195571956
+        },
+        "contrast": 49
+      },
+      "best": {
+        "shape": 1,
+        "score": 0.9942857142857142,
+        "margin": 0.13072079759285027,
+        "box": [
+          256,
+          126,
+          153,
+          159
+        ],
+        "corners": [
+          [
+            258,
+            150
+          ],
+          [
+            384,
+            126
+          ],
+          [
+            408,
+            258
+          ],
+          [
+            272,
+            282
+          ]
+        ],
+        "accepted": true,
+        "scores": {
+          "1": 0.9942857142857142,
+          "2": 0.319094184251158,
+          "3": 0.863564916692864,
+          "4": 0.5662887047535979,
+          "5": 0.1574564723694171,
+          "6": 0.3719557195571956
+        },
+        "contrast": 49
+      }
+    },
+    {
+      "time": 2.9,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.7,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.8,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 3.9,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.7,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.8,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 4.9,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.0,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.1,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.2,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.3,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.4,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.5,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.6,
+      "detection": null,
+      "best": null
+    },
+    {
+      "time": 5.7,
+      "detection": null,
+      "best": null
+    }
+  ],
+  "pc_mean_ms": 8.609424138018673,
+  "note": "PC replay; native CanMV blobs, board timing and UART require device validation"
+}

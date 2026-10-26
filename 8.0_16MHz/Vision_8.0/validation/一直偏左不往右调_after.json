@@ -1,0 +1,13 @@
+{
+  "video": "D:\\Desktop\\2026 cobocup 人形机器人\\视频\\10.16\\一直偏左不往右调.mp4",
+  "duration_seconds": 10.538,
+  "sample_count": 165,
+  "status_counts": {
+    "lost": 4,
+    "straight": 72,
+    "left": 18,
+    "right": 71
+  },
+  "first_right_seconds": 0.383,
+  "note": "PC replay of recorded CanMV preview; physical closed-loop behavior requires board test"
+}

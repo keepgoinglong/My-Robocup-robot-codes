@@ -1,0 +1,16 @@
+{
+  "source_sha256": "f4ce8b3f07bd7be766a94b65ea1a159c1f3c0e3bf5f9ea46b4880be35eb22a51",
+  "image_sha256": "662c7b781f12f6401365f1d9e9a5e531929d4435c8d9d44afb8345ac7e82451d",
+  "loop_slots": [
+    10,
+    11,
+    13,
+    14,
+    15,
+    17
+  ],
+  "loop_ms": 2700,
+  "compiled_tables_match": true,
+  "startup_equals_frame6": true,
+  "scope": "ARM tables and mocked replay, not physical gait validation"
+}

@@ -1,0 +1,66 @@
+# ───────── 归档区（本地留底，不进仓库）─────────
+_archive/
+
+# ───────── Keil / 编译产物 ─────────
+8.0_16MHz/MDK-ARM/**/Objects/
+8.0_16MHz/MDK-ARM/**/Listings/
+8.0_16MHz/MDK-ARM/HumanoidRobot_5_3/
+8.0_16MHz/MDK-ARM/HumanoidRobot_6_0/
+8.0_16MHz/MDK-ARM/HumanoidRobot_7_0/
+8.0_16MHz/MDK-ARM/HumanoidRobot_8_0/
+8.0_16MHz/MDK-ARM/*.lst
+8.0_16MHz/MDK-ARM/*.log
+8.0_16MHz/MDK-ARM/*.uvguix.*
+8.0_16MHz/Validation/*.log
+*.o  *.d  *.crf  *.axf  *.elf  *.hex  *.bin  *.map  *.lnp  *.dep  *.sct  *.htm  *.build_log.htm
+
+# ───────── Python 缓存 ─────────
+__pycache__/
+*.pyc
+
+# ───────── 旧版 / 分支视觉代码（本地留底）─────────
+8.0_16MHz/Vision5.1/
+8.0_16MHz/Vision_red/
+
+# ───────── 备份与历史副本 ─────────
+8.0_16MHz/Backup_before_*/
+8.0_16MHz/Src/*.before_*
+8.0_16MHz/**/* (1).*
+8.0_16MHz/**/* (3).*
+
+# ───────── 第三方资料（开发板手册/原理图截图，别公开）─────────
+8.0_16MHz/tmp/
+
+# ───────── 未参与编译的 ST/ARM 官方库（90MB，本地留底可自行补回）─────────
+8.0_16MHz/Drivers/CMSIS/DSP/
+8.0_16MHz/Drivers/CMSIS/NN/
+8.0_16MHz/Drivers/CMSIS/Lib/
+8.0_16MHz/Drivers/CMSIS/DAP/
+8.0_16MHz/Drivers/CMSIS/Core_A/
+8.0_16MHz/Drivers/CMSIS/RTOS/
+8.0_16MHz/Drivers/CMSIS/RTOS2/
+8.0_16MHz/Drivers/CMSIS/Documentation/
+8.0_16MHz/Drivers/CMSIS/docs/
+8.0_16MHz/Drivers/CMSIS/Device/ST/STM32F4xx/Source/
+
+# ───────── 实验版动作 JSON（未被 *_frames.h 的 SHA256 锁定）─────────
+8.0_16MHz/Actions/my_actions strideover (4).json
+8.0_16MHz/Actions/my_actions3.json
+8.0_16MHz/Actions/my_actions5.json
+8.0_16MHz/Actions/my_actions6.json
+8.0_16MHz/Actions/my_actions8.json
+8.0_16MHz/Actions/my_actions8_original.json
+8.0_16MHz/Actions/my_actions8_前摆停留300ms试验.json
+8.0_16MHz/Actions/my_actions9.json
+8.0_16MHz/Actions/my_actions10.json
+8.0_16MHz/Actions/my_actions11.json
+8.0_16MHz/Actions/my_actionsfinalorigin2.json
+8.0_16MHz/Actions/my_actionsfinalshort (3).json
+8.0_16MHz/Actions/my_actionsfinalorigin (3).json
+8.0_16MHz/Validation/prepare_actions8.py
+
+# ───────── 系统文件 ─────────
+Thumbs.db
+desktop.ini
+.DS_Store
+整理日志.txt

@@ -1,0 +1,41 @@
+{
+  "sha256": "662c7b781f12f6401365f1d9e9a5e531929d4435c8d9d44afb8345ac7e82451d",
+  "cases": [
+    {
+      "angle_deci": -900,
+      "right_counts": 62,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 0,
+      "right_counts": 62,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 10,
+      "right_counts": 66,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 50,
+      "right_counts": 82,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 95,
+      "right_counts": 100,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 150,
+      "right_counts": 100,
+      "endpoints": 11
+    },
+    {
+      "angle_deci": 900,
+      "right_counts": 100,
+      "endpoints": 11
+    }
+  ],
+  "scope": "ARM with mocked buses, not physical robot"
+}

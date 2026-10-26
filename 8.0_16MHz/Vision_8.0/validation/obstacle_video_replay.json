@@ -1,0 +1,23 @@
+{
+  "front": {
+    "frames": 144,
+    "detections": 57,
+    "median_deg": 1.88,
+    "min_deg": -4.1,
+    "max_deg": 10.91
+  },
+  "left": {
+    "frames": 121,
+    "detections": 39,
+    "median_deg": 26.98,
+    "min_deg": 10.93,
+    "max_deg": 30.05
+  },
+  "right": {
+    "frames": 164,
+    "detections": 65,
+    "median_deg": -4.02,
+    "min_deg": -16.1,
+    "max_deg": 4.07
+  }
+}
